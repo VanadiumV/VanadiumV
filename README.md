@@ -12,7 +12,7 @@
 - 🌱 Doing **LeetCode**,**Codeforces** and **DSA**
 - 🏃 I love to participate in **hackathons**
 - 😁 I am part time **student** and full time **memer**
-- 🛌 I am a wanna be **ML engineer**
+- 🛌 I  wanna be **ML engineer**
 - 💌 Mail me at **jayalvalleri@gmail.com** to contact me.
 
 ## Skill Set :muscle:
@@ -53,8 +53,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <a href="https://linkedin.com/in/valleri-j-71040121a"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/dextrojl/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt width="40"></a>|<a href = "https://discord.com/users/日本#9220%20"><img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" width ="50">
 |--|--|--|
 
-### Here is a random meme for you, to make your day better
-<p><img src="https://giphy.com/gifs/foxadhd-wifi-14gxbEtCfIqdnG"></p>
+
 
 <p align = "center"> Hope you enjoyed going through my profile 😌<br>
 How about following me 🥺</p>
