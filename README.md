@@ -13,7 +13,6 @@
 - 🏃 I love to participate in **hackathons**
 - 😁 I am part time **student** and full time **memer**
 - 🛌 I  wanna be **ML engineer**
-- 💌 Mail me at **jayalvalleri@gmail.com** to contact me.
 
 ## Skill Set :muscle:
 
