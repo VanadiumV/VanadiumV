@@ -33,6 +33,7 @@ These are some of the major technologies that I use or have worked on in the pas
 **Tools and Softwares**
 
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">|<img title="Discord" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png">|<img title="Figma" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">|<img title="Atom" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png">|<img title="Canva" alt="Canva" width="40px" src="https://camo.githubusercontent.com/62d363c0a14641c820fbb9810a5672937c38bb73258f6a3cf2bf86b56a74f9dc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63616e76612f63616e76612d6f726967696e616c2e737667">
+<br></br>
 |--|--|--|--|--|--|
 
 <br>
