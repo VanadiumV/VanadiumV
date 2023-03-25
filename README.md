@@ -32,7 +32,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Tools and Softwares**
 
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">|<img title="Discord" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png">|<img title="Figma" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">|<img title="Atom" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png">|<img title="Canva" alt="Canva" width="40px" src="https://camo.githubusercontent.com/62d363c0a14641c820fbb9810a5672937c38bb73258f6a3cf2bf86b56a74f9dc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63616e76612f63616e76612d6f726967696e616c2e737667">
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">|<img title="Discord" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png">|<img title="Figma" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">|<img title="Atom" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics//DaVinciResolve.png">|<img title="Canva" alt="Canva" width="40px" src="https://camo.githubusercontent.com/62d363c0a14641c820fbb9810a5672937c38bb73258f6a3cf2bf86b56a74f9dc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63616e76612f63616e76612d6f726967696e616c2e737667">
 <br></br>
 |--|--|--|--|--|--|
 
@@ -51,8 +51,10 @@ These are some of the major technologies that I use or have worked on in the pas
 ## Let's Connect :handshake:
 
 <a href="https://linkedin.com/in/valleri-j-71040121a"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/dextrojl/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt width="40px"></a>|<a href = "https://discord.com/users/日本#9220%20"><img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" width ="50">|<a href="https://www.hackerrank.com/erzaroxx2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vals" width="40px" /></a>|<a href="https://www.leetcode.com/VanadiumV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VanadiumV"  width="40px" /></a>
+<a href="https://www.codechef.com/users/jayalvalleri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Vals" height="60" width="40" /></a>
+<a href="https://codeforces.com/profile/Valsdextros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Valsdextros" height="50" width="40" /></a>
          
-|--|--|--|
+
 
 
 
