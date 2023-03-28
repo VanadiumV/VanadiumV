@@ -12,7 +12,7 @@
 - 🌱 Doing **LeetCode**,**Codeforces** and **DSA**
 - 🏃 I love to participate in **hackathons**
 - 😁 I am part time **student** and full time **memer**
-- 🛌 I  wanna be **SDE**
+- 🛌 I  wanna be **ML Engineer**
 
 ## Skill Set :muscle:
 
