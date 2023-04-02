@@ -55,7 +55,7 @@ These are some of the major technologies that I use or have worked on in the pas
          <a href = "https://discord.com/users/日本#9220%20"><img title="git" alt="git" height="60" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" height ="60" width ="50">
    ## CP
    <a href="https://codeforces.com/profile/Valsdextros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Valsdextros" height="50" width="40" /></a>
-   <a href="https://www.hackerrank.com/erzaroxx2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vals" height="50" width="40px" /></a> 
+   <a href="https://www.hackerrank.com/vallerijayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vals" height="50" width="40px" /></a> 
  <a href="https://www.leetcode.com/VanadiumV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VanadiumV" height=60 width="40px" /></a>
 
          
