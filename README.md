@@ -60,6 +60,8 @@ These are some of the major technologies that I use or have worked on in the pas
   <a href="https://www.hackerrank.com/vallerijayal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vals" height="50" width="40px" /></a> 
  <a href="https://www.leetcode.com/VanadiumV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VanadiumV" height=60 width="40px" /></a>
 <a href="https://codeforces.com/profile/Valsdextros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Valsdextros" height="50" width="40" /></a>
+ <a href="https://cses.com/profile/crapcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/cses.svg" alt="crapcoder" height="50" width="40" /></a>
+
 
 <p align = "center"> Hope you enjoyed going through my profile 😌<br>
 How about following me 🥺</p>
