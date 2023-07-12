@@ -27,7 +27,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img alt="NodeJS" title="NodeJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img alt="NodeJS" title="NodeJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img alt="ExpressJS" title="ExpressJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/expressjs/expressjs.png">|
 |--|--|
 
 **Tools and Softwares**
@@ -50,9 +50,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/valleri-j-71040121a/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40" height="50"></a>
-         
- <a href = "https://discord.com/users/日本#9220%20"><img title="git" alt="git" height="60" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" height ="60" width ="50">
+<a href="https://www.linkedin.com/in/valleri-j-71040121a/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40" height="50"></a><a href = "https://discord.com/users/日本#9220%20"><img title="git" alt="git" height="60" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" height ="60" width ="50"></a>
   
 
 ## OTHERS 
