@@ -27,7 +27,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img alt="NodeJS" title="NodeJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img alt="ExpressJS" title="ExpressJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/expressjs/expressjs.png">|
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img alt="NodeJS" title="NodeJs" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|
 |--|--|
 
 **Tools and Softwares**
