@@ -59,7 +59,8 @@ These are some of the major technologies that I use or have worked on in the pas
  <a href="https://www.leetcode.com/VanadiumV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VanadiumV" height=60 width="40px" /></a>
 
 
-
+## Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/VanadiumV?theme=dark&font=contest)
 
 <p align = "center"> Hope you enjoyed going through my profile 😌<br>
 How about following me 🥺</p>
