@@ -1,4 +1,4 @@
-<h1 align= "center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><br> VanadiumV here</h1>
+![Vals Nodejs generated Scan](https://cdn.discordapp.com/attachments/1094611032586072135/1131688481559683243/Screenshot_2023-07-15_at_9.10.33_PM.png?width=1025&height=299)
 
 <h3 align="center">Enhancing myself everyday</h3>
 
