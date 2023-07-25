@@ -1,8 +1,7 @@
-![Vals Nodejs generated Scan](https://cdn.discordapp.com/attachments/1094611032586072135/1131688481559683243/Screenshot_2023-07-15_at_9.10.33_PM.png?width=1025&height=100)
+
 
 <h3 align="center">Enhancing myself everyday</h3>
-<h6 align="center">Do Scan the above QR (made using js framework) You'll find something Interesting </h6>
-<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VanadiumVi&label=Profile%20views&color=0e75b6&style=flat" alt="VanadiumV" /></p>
 <img height="auto" align="center" alt="VanadiumV's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=VanadiumV&row=1&column=7&theme=darkhub&margin-w=15e" />
