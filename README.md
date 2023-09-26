@@ -2,9 +2,6 @@
 
 <h3 align="center">Enhancing myself everyday</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=VanadiumVi&label=Profile%20views&color=0e75b6&style=flat" alt="VanadiumV" /></p>
-<img height="auto" align="center" alt="VanadiumV's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=VanadiumV&row=1&column=7&theme=darkhub&margin-w=15e" />
 ## About me 😎
 
 - 🏊 Currently deep diving in **AI and ML**
