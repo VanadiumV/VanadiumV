@@ -1,4 +1,4 @@
-
+![Vals](https://media.discordapp.net/attachments/1126779288583147620/1156221801580478607/Screenshot_2023-09-26_at_7.02.17_PM.png?width=1025&height=299)
 <h3 align="center">Enhancing myself everyday</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VanadiumVi&label=Profile%20views&color=0e75b6&style=flat" alt="VanadiumV" /></p>
