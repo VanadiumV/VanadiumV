@@ -2,6 +2,8 @@
 
 <h3 align="center">Enhancing myself everyday</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=VanadiumVi&label=Profile%20views&color=0e75b6&style=flat" alt="VanadiumV" /></p>
+
 ## About me 😎
 
 - 🏊 Currently deep diving in **AI and ML**
