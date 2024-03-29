@@ -7,8 +7,8 @@
 ## About me 😎
 
 - 🏊 Currently deep diving in **AI and ML**
-- 🌱 Doing **LeetCode**,**Codeforces** and **DSA**
-- 🏃 I love to participate in **hackathons**
+- 🌱 Doing **LeetCode**,**Codeforces** and **Codechef**
+- 🏃 I love to participate in **contests**
 - 🛌 I  wanna be **ML Engineer**
 
 ## Skill Set :muscle:
