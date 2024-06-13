@@ -34,7 +34,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
   
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanadiumV&langs_count=8&theme=gotham&layout=compact" alt="VanadiumV" width = "40%"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanadiumV&langs_count=8&theme=gotham&layout=compact" alt="VanadiumV" width = "34%"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=VanadiumV&theme=gotham&hide_border=false" width = "40%">
     <img src="https://github-readme-stats.vercel.app/api?username=VanadiumV&show_icons=true&theme=gotham" alt="VanadiumV" width = 40%/>
   
