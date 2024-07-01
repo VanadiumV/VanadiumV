@@ -8,7 +8,6 @@
 
 - 🏊 Currently deep diving in **AI and ML**
 - 🌱 Grinding **LeetCode**,**Codeforces** and **Codechef**
-- 🏃 I love to participate in **contests**
 - 🛌 Trying to be **Consistent**
 
 ## Skill Set :muscle:
